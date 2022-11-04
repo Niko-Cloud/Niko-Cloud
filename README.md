@@ -1,7 +1,4 @@
 ## <div align="center">My Name Indra Niko Saputra</div>
-<div align="center">
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" align="center" style="width:300px"/>
-</div>  
 
 <br>
 <div style ="display:flex;" align="center">
@@ -83,9 +80,10 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
+<br/>
+<div align="center">
+<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
+</div>
 
 #
 
