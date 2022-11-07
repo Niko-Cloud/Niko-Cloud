@@ -19,7 +19,7 @@
 - ❓ You can Email Me Through [Here](mailto:indraniko20@gmail.com)  
   
 
-- ⚡ Fun fact: My Waifu is Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
+- ⚡ Fun fact: My Waifu is a Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
   
 
 <br/>  
