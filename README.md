@@ -11,7 +11,7 @@
 - 🔭 I’m currently looking for internship  
   
 
-- 🌱 I’m currently learning ReactJS and NodeJS  
+- 🌱 My best skill is in Android Dev (Flutter and Kotlin)
   
 
 - ❓ You can Email Me Through [Here](mailto:indraniko20@gmail.com)  
