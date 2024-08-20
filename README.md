@@ -7,7 +7,7 @@
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 </div>
 
-### <div align="center">I'm a Student of Diponegoro University, Indonesia. Still in the process of learning in the world of Web Development</div>  
+### <div align="center">Android and Web Dev Looking For Job, Im fast to learn so new tech isn't a problem to me</div>  
   
 
 - 🔭 I’m currently looking for internship  
